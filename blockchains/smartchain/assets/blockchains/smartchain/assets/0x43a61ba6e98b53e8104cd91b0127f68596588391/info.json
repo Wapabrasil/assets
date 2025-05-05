@@ -1,0 +1,14 @@
+{
+  "name": "Teller Token",
+  "symbol": "TELLER",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x43a61ba6e98b53e8104cd91b0127f68596588391",
+  "logo": "https://raw.githubusercontent.com/seuusuario/assets/master/blockchains/smartchain/assets/0x43a61ba6e98b53e8104cd91b0127f68596588391/logo.png",
+  "links": {
+    "website": "https://wapabrasil.org",
+    "telegram": "https://t.me/wapabrasil",
+    "twitter": "https://twitter.com/wapabrasil"
+  }
+}
