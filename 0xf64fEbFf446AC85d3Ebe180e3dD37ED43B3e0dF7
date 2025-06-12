@@ -1,0 +1,11 @@
+{
+  "name": "USDT bep20",
+  "symbol": "USDTbep20",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Token oficial do projeto USDTbep20.",
+  "website": "https://wapabrasil.finance",
+  "explorer": "https://bscscan.com/token/0xf64fEbFf446AC85d3Ebe180e3dD37ED43B3e0dF7",
+  "status": "active",
+  "id": "0xf64fEbFf446AC85d3Ebe180e3dD37ED43B3e0dF7"
+}
